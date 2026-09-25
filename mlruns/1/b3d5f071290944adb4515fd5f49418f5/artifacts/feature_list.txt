@@ -1,0 +1,8 @@
+Nominal crude steel capacity (ttpa)
+Workforce size
+Plant age
+Capacity per worker (ttpa)
+Plant age group
+Status
+Country/area
+Main production equipment
